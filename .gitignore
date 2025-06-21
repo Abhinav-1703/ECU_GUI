@@ -1,0 +1,28 @@
+# Visual Studio
+.vscode/
+*.user
+*.vcxproj.*
+*.suo
+*.log
+*.ipch
+*.obj
+*.pdb
+*.idb
+*.class
+*.exe
+*.dll
+*.lib
+*.tmp
+*.cache
+*.sdf
+*.opensdf
+*.tlog
+*.lastbuildstate
+Debug/
+Release/
+x64/
+build/
+*.vc.db
+
+# ImGui SDL files
+imgui/backends/*.o
