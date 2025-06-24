@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{B76A8A6C-2450-49FE-9D2B-A8596A29C36B}|ECU_GUI.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B76A8A6C-2450-49FE-9D2B-A8596A29C36B}|ECU_GUI.vcxproj|C:\\Users\\abhin\\OneDrive\\Documents\\ECU_GUI\\imgui\\imgui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B76A8A6C-2450-49FE-9D2B-A8596A29C36B}|ECU_GUI.vcxproj|solutionrelative:imgui\\imgui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -17,11 +21,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "stdio.h",
               "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
@@ -33,6 +37,10 @@
               "IsPinned": true
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
@@ -40,9 +48,22 @@
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\abhin\\OneDrive\\Documents\\ECU_GUI\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAIcAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAADcBAAAAAAAAAAAAAEwBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-21T15:43:35.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "imgui.h",
+              "DocumentMoniker": "C:\\Users\\abhin\\OneDrive\\Documents\\ECU_GUI\\imgui\\imgui.h",
+              "RelativeDocumentMoniker": "imgui\\imgui.h",
+              "ToolTip": "C:\\Users\\abhin\\OneDrive\\Documents\\ECU_GUI\\imgui\\imgui.h",
+              "RelativeToolTip": "imgui\\imgui.h",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-24T14:49:32.541Z",
               "EditorCaption": ""
             }
           ]
